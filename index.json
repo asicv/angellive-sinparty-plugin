@@ -1,0 +1,16 @@
+{
+  "apiVersion": 1,
+  "generatedAt": "2026-06-20T02:20:00Z",
+  "plugins": [
+    {
+      "pluginId": "sinparty-live",
+      "version": "1.0.0",
+      "changelog": ["首次发布", "支持分类、分页、观看人数和 HLS 播放"],
+      "platform": "sinparty-live",
+      "platformName": "SinParty Live",
+      "platformDescription": "SinParty 实时直播的 AngelLive 适配插件",
+      "zipURL": "https://raw.githubusercontent.com/asicv/angellive-sinparty-plugin/main/sinparty-angellive-1.0.0.zip",
+      "sha256": "83e992adda365fa904d2b8673fde35c03f3ec4156a27c51c586620bccaac97c1"
+    }
+  ]
+}
